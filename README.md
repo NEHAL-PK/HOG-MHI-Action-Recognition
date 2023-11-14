@@ -1,4 +1,4 @@
-# HOG-MHI-Action-Recognition
+# HOG-MHI-Action-Recognition(Computer vision)
 Testing the research paper methodology and result(Link available in readme)
 https://ieeexplore.ieee.org/document/7421017
-use block diagram to follow
+use a block diagram to follow
